@@ -721,10 +721,6 @@ pre {
   box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
 }
 .form2 .form-control {
-  border-top-left-radius: 100px;
-  border-bottom-left-radius: 100px;
-}
-.form2 .input-group-btn a.btn {
   border-top-left-radius: 0 !important;
   border-bottom-left-radius: 0 !important;
 }
